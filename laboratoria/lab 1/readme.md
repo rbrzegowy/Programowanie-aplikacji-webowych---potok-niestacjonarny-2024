@@ -8,4 +8,4 @@ Budujemy aplikację do zarządzania projektami.
 - Zrealizuj funkcjonalność CRUD dotyczącą projektu. 
 - Dane zapisz w localStorage - napisz dedykowaną klasę do komunikacji z api (tymczasowym api będzie localStorage)
 
-Model projektu: nazwa, opis
+Model projektu: id, nazwa, opis
